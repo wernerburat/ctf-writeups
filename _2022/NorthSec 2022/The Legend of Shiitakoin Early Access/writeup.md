@@ -200,7 +200,7 @@ We can do the same thing with Y to find `0x4E`.
 
 Time to try it...
 
-![](images/flag2.png)
+![](images/flag2.PNG)
 
 And here it is, our beautiful second flag, for another 4 points! :mushroom:
 
