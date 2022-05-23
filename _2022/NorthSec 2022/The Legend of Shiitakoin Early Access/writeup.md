@@ -151,7 +151,7 @@ We have the address `0x80057108` that we will try to go to in Ghidra.
 
 If we press G to go to the address we saved, we will see that it's called `triPos_x` in the .out file and that it is referenced in functions named `initStage02`, `makeDL02` and `updateGame02`.
 
-![](images/address.png)
+![](images/address.PNG)
 
 `initStage02` is a function used for variable initialization.
 
