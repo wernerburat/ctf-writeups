@@ -26,7 +26,7 @@ Then, by pressing R, we confirm the code and renders the message "INCORRECT". Gi
 
 #### What about that .out file? What does it do?
 
-So the first thing I did with this .out file
+So the first thing I did with this .out file is to open it in Ghidra and analyzing it as MIPS assembly code, which is the architecture the Nintendo 64 uses.
 
 I quickly found a function named `evaluationRoutine` that checks if the four inputs are correct. Ghidra decompiled it like this:
 
